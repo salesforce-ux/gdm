@@ -1,0 +1,2 @@
+# gdm
+Git Dependency Manager
