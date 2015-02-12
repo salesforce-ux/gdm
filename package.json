@@ -1,13 +1,13 @@
 {
   "name": "gdm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Git Dependency Manager",
   "keywords": [
     "git"
   ],
   "author": "Sönke Rohde <soenke.rohde@gmail.com>",
   "license": "BSD 2-Clause",
-  "main": "./bin/gdm",
+  "bin": "./bin/gdm.js",
   "engines": {
     "node": ">= 0.8.0"
   },
