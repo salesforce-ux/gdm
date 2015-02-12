@@ -1,0 +1,24 @@
+{
+  "name": "gdm",
+  "version": "0.0.1",
+  "description": "Git Dependency Manager",
+  "keywords": [
+    "git"
+  ],
+  "author": "Sönke Rohde <soenke.rohde@gmail.com>",
+  "license": "BSD 2-Clause",
+  "main": "./bin/gdm",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salesforce-ux/gdm.git"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  }
+}
