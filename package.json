@@ -1,6 +1,6 @@
 {
   "name": "gdm",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Git Dependency Manager",
   "keywords": [
     "git"
@@ -21,6 +21,7 @@
   },
   "devDependencies": {},
   "gitDependencies": {
-    "foo": "https://git.soma.salesforce.com/srohde/foo.git#master"
+    "foo": "https://github.com/salesforce-ux/gdm.git#master",
+    "bar": "https://github.com/salesforce-ux/gdm.git#master"
   }
 }
