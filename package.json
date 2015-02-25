@@ -1,6 +1,6 @@
 {
   "name": "gdm",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Git Dependency Manager",
   "keywords": [
     "git"
@@ -17,12 +17,10 @@
     "url": "https://github.com/salesforce-ux/gdm.git"
   },
   "dependencies": {
-    
+    "gulp-git": "^1.0.0"
   },
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "gitDependencies": {
-    "gdm": "https://github.com/salesforce-ux/gdm.git"
+    "foo": "https://git.soma.salesforce.com/srohde/foo.git#master"
   }
 }
