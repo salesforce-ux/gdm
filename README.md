@@ -1,4 +1,6 @@
 # gdm
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/salesforce-ux/gdm.svg)](https://greenkeeper.io/)
 Git Dependency Manager
 
 ## License
