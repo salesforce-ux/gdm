@@ -17,7 +17,7 @@
     "url": "https://github.com/salesforce-ux/gdm.git"
   },
   "dependencies": {
-    "gulp-git": "^1.0.0"
+    "gulp-git": "^2.0.0"
   },
   "devDependencies": {},
   "gitDependencies": {
